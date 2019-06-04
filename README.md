@@ -18,7 +18,7 @@ In console,you can see...
 1. The File Name
 2. The threshold
 3. The FP_Tree
-ccc
+
 4. Product Combination
 Sepically,You can see each product combination that have a tree for it.
 5. TotalCount
